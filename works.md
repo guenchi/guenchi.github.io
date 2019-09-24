@@ -25,5 +25,77 @@
 一个幻想语言创造的Demo，是我在2011年设计的。
 ```
 
-## 编程
+## 计算机
 
+### [Darkart](guenchi.github.io/Darkart)
+
+```
+一个让Scheme能自由调用Python,Lua,Julia等其他语言库的库。
+```
+
+### [Scheme版NumPy](guenchi.github.io/NumPy)
+
+```
+Scheme的NumPy库并且速度比Python原版要快，基于Darkart。
+```
+
+### [Scheme版SciPy](guenchi.github.io/SciPy)
+
+```
+Scheme的SciPy库并且速度比Python原版要快，基于Darkart。
+```
+
+### [Scheme版SymPy](guenchi.github.io/SymPy)
+
+```
+Scheme的SymPy库并且速度比Python原版要快，基于Darkart。
+```
+
+
+### [Scheme版Matplotlib](guenchi.github.io/Matplotlib)
+
+```
+一个Scheme用的图形显示库，基于Darkart。
+```
+
+### [Scheme版Pandas](guenchi.github.io/Pandas)
+
+```
+Scheme的Pandas库并且速度比Python原版要快，基于Darkart。
+```
+
+### [Igropyr](guenchi.github.io/Igropyr)
+
+```
+Scheme的异步http服务器。
+```
+
+### [Catapult](github.com/guenchi/catapult)
+
+```
+为Igropyr服务器设计的web开发框架。
+```
+
+### [Ballista](github.com/guenchi/ballista)
+
+```
+为Igropyr服务器设计的Express风格web开发框架。
+```
+
+### [json](github.com/guenchi/json)
+
+```
+一个Scheme的Json库，包括Json parser和一些Json操作函数。
+```
+
+### [Schemacs](github.com/guenchi/schemacs)
+
+```
+一个实现在Chez Scheme上的Emacs。
+```
+
+### [Raven](guenchi.github.io/Raven)
+
+```
+由我设计，主要由Chclock实施的Scheme包管理器。
+```
