@@ -25,6 +25,52 @@
 一个幻想语言创造的Demo，是我在2011年设计的。
 ```
 
+### <<白堡三部曲的众语言>>
+
+```
+为奇幻小说白堡三部曲设计的十几种各种族的语言和文字。未出版。
+```
+
+## 小说
+
+### <<白堡>>
+
+```
+白堡三部曲之一。未出版。
+```
+
+### <<双树>>
+
+```
+白堡三部曲之二。未出版。
+```
+
+### <<白堡神话>>
+
+```
+白堡三部曲的背景故事。未出版。
+```
+
+## 诗集
+
+### <<童年杂诗集>>
+
+```
+八岁至十二岁阶段所作诗集。未出版。
+```
+
+### <<馨月集>>
+
+```
+高中（十三至十五岁）时作情诗合集。包括一些词。未出版。
+```
+
+### 其他诗词集
+
+```
+近年随手所作诗词。
+```
+
 ## 计算机
 
 ### [Darkart](guenchi.github.io/Darkart)
@@ -82,6 +128,19 @@ Scheme的异步http服务器。
 为Igropyr服务器设计的Express风格web开发框架。
 ```
 
+[Node.sc](github.com/guenchi/node.sc)
+
+```
+一个Nanopass技术的编译器。可以将Scheme的子集编译为JavaScript。
+将syntax-rules和syntax-case带到JavaScript世界。
+```
+
+[ChezJavaScript](github.com/guenchi/chezjavascript)
+
+```
+一个以Chez Scheme为编译后端的JavaScript的编译器，可以将JavaScript编译为机器码。
+```
+
 ### [json](github.com/guenchi/json)
 
 ```
@@ -92,6 +151,18 @@ Scheme的异步http服务器。
 
 ```
 一个实现在Chez Scheme上的Emacs。
+```
+
+### [jwt](github.com/guenchi/jwt)
+
+```
+一个Scheme的jwt库。
+```
+
+### [Core](github.com/guenchi/core)
+
+```
+一个富含小巧帮助函数的Scheme库。
 ```
 
 ### [Raven](guenchi.github.io/Raven)
