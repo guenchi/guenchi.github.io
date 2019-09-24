@@ -159,7 +159,7 @@ Scheme的异步http服务器。
 一个Scheme的jwt库。
 ```
 
-### [Core](github.com/guenchi/core)
+### [Core](guenchi.github.io/Core)
 
 ```
 一个富含小巧帮助函数的Scheme库。
