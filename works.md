@@ -19,16 +19,16 @@
 对自然语言产生的影响，从而可以通过系统性的方法生成人工语言语族和众多子语言，且每种语言贴合目标种族的背景。
 ```
 
-### [幻想语言创造](guenchi.github.io/language-creating)
-
-```
-一个幻想语言创造的Demo，是我在2011年设计的。
-```
-
 ### <<白堡三部曲的众语言>>
 
 ```
 为奇幻小说白堡三部曲设计的十几种各种族的语言和文字。未出版。
+```
+
+### [幻想语言创造](https://guenchi.github.io/language-creating)
+
+```
+一个幻想语言创造的Demo，是我在2011年设计的。
 ```
 
 ## 小说
@@ -36,7 +36,9 @@
 ### <<白堡>>
 
 ```
-白堡三部曲之一。未出版。
+受托尔金启发创作的史诗奇幻小说。
+小说里有十几个不同奇幻种族，每个都有独特的文化，神话，语言与文字。
+未出版。
 ```
 
 ### <<双树>>
@@ -73,99 +75,99 @@
 
 ## 计算机
 
-### [Darkart](guenchi.github.io/Darkart)
+### [Darkart](https://guenchi.github.io/Darkart)
 
 ```
 一个让Scheme能自由调用Python,Lua,Julia等其他语言库的库。
 ```
 
-### [Scheme版NumPy](guenchi.github.io/NumPy)
+### [Scheme版NumPy](https://guenchi.github.io/NumPy)
 
 ```
 Scheme的NumPy库并且速度比Python原版要快，基于Darkart。
 ```
 
-### [Scheme版SciPy](guenchi.github.io/SciPy)
+### [Scheme版SciPy](https://guenchi.github.io/SciPy)
 
 ```
 Scheme的SciPy库并且速度比Python原版要快，基于Darkart。
 ```
 
-### [Scheme版SymPy](guenchi.github.io/SymPy)
+### [Scheme版SymPy](https://guenchi.github.io/SymPy)
 
 ```
 Scheme的SymPy库并且速度比Python原版要快，基于Darkart。
 ```
 
 
-### [Scheme版Matplotlib](guenchi.github.io/Matplotlib)
+### [Scheme版Matplotlib](https://guenchi.github.io/Matplotlib)
 
 ```
 一个Scheme用的图形显示库，基于Darkart。
 ```
 
-### [Scheme版Pandas](guenchi.github.io/Pandas)
+### [Scheme版Pandas](https://guenchi.github.io/Pandas)
 
 ```
 Scheme的Pandas库并且速度比Python原版要快，基于Darkart。
 ```
 
-### [Igropyr](guenchi.github.io/Igropyr)
+### [Igropyr](https://guenchi.github.io/Igropyr)
 
 ```
 Scheme的异步http服务器。
 ```
 
-### [Catapult](github.com/guenchi/catapult)
+### [Catapult](https://github.com/guenchi/catapult)
 
 ```
 为Igropyr服务器设计的web开发框架。
 ```
 
-### [Ballista](github.com/guenchi/ballista)
+### [Ballista](https://github.com/guenchi/ballista)
 
 ```
 为Igropyr服务器设计的Express风格web开发框架。
 ```
 
-[Node.sc](github.com/guenchi/node.sc)
+[Node.sc](https://github.com/guenchi/node.sc)
 
 ```
 一个Nanopass技术的编译器。可以将Scheme的子集编译为JavaScript。
 将syntax-rules和syntax-case带到JavaScript世界。
 ```
 
-[ChezJavaScript](github.com/guenchi/chezjavascript)
+[ChezJavaScript](https://github.com/guenchi/chezjavascript)
 
 ```
 一个以Chez Scheme为编译后端的JavaScript的编译器，可以将JavaScript编译为机器码。
 ```
 
-### [json](github.com/guenchi/json)
+### [json](https://github.com/guenchi/json)
 
 ```
 一个Scheme的Json库，包括Json parser和一些Json操作函数。
 ```
 
-### [Schemacs](github.com/guenchi/schemacs)
+### [Schemacs](https://github.com/guenchi/schemacs)
 
 ```
 一个实现在Chez Scheme上的Emacs。
 ```
 
-### [jwt](github.com/guenchi/jwt)
+### [jwt](https://github.com/guenchi/jwt)
 
 ```
 一个Scheme的jwt库。
 ```
 
-### [Core](guenchi.github.io/Core)
+### [Core](https://guenchi.github.io/Core)
 
 ```
 一个富含小巧帮助函数的Scheme库。
 ```
 
-### [Raven](guenchi.github.io/Raven)
+### [Raven](https://guenchi.github.io/Raven)
 
 ```
 由我设计，主要由Chclock实施的Scheme包管理器。
