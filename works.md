@@ -78,7 +78,7 @@
 ### [Darkart](https://guenchi.github.io/Darkart)
 
 ```
-一个让Scheme能自由调用Python,Lua,Julia等其他语言库的库。
+通过二进制接口让Scheme能自由调用Python,Lua,Julia等其他语言的库。
 ```
 
 ### [Scheme版NumPy](https://guenchi.github.io/NumPy)
@@ -112,38 +112,38 @@ Scheme的SymPy库并且速度比Python原版要快，基于Darkart。
 Scheme的Pandas库并且速度比Python原版要快，基于Darkart。
 ```
 
-### [Igropyr](https://guenchi.github.io/Igropyr)
+### [Igropyr服务器](https://guenchi.github.io/Igropyr)
 
 ```
 Scheme的异步http服务器。
 ```
 
-### [Catapult](https://github.com/guenchi/catapult)
+### [Catapult框架](https://github.com/guenchi/catapult)
 
 ```
 为Igropyr服务器设计的web开发框架。
 ```
 
-### [Ballista](https://github.com/guenchi/ballista)
+### [Ballista框架](https://github.com/guenchi/ballista)
 
 ```
 为Igropyr服务器设计的Express风格web开发框架。
 ```
 
-[Node.sc](https://github.com/guenchi/node.sc)
+[Node.sc编译器](https://github.com/guenchi/node.sc)
 
 ```
 一个Nanopass技术的编译器。可以将Scheme的子集编译为JavaScript。
 将syntax-rules和syntax-case带到JavaScript世界。
 ```
 
-[ChezJavaScript](https://github.com/guenchi/chezjavascript)
+[ChezJavaScript编译器](https://github.com/guenchi/chezjavascript)
 
 ```
 一个以Chez Scheme为编译后端的JavaScript的编译器，可以将JavaScript编译为机器码。
 ```
 
-### [json](https://github.com/guenchi/json)
+### [json库](https://github.com/guenchi/json)
 
 ```
 一个Scheme的Json库，包括Json parser和一些Json操作函数。
@@ -155,19 +155,19 @@ Scheme的异步http服务器。
 一个实现在Chez Scheme上的Emacs。
 ```
 
-### [jwt](https://github.com/guenchi/jwt)
+### [jwt库](https://github.com/guenchi/jwt)
 
 ```
 一个Scheme的jwt库。
 ```
 
-### [Core](https://guenchi.github.io/Core)
+### [Core库](https://guenchi.github.io/Core)
 
 ```
 一个富含小巧帮助函数的Scheme库。
 ```
 
-### [Raven](https://guenchi.github.io/Raven)
+### [Raven包管理器](https://guenchi.github.io/Raven)
 
 ```
 由我设计，主要由Chclock实施的Scheme包管理器。
