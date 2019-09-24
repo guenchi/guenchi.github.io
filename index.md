@@ -9,3 +9,13 @@ LISP黑客，Scheme传道者
 ```
 
 ### [我的作品](works.md)
+
+### [潜意识计算](qianyisi.md)
+
+### [读<<腾讯没有梦想>>](biji2.md)
+
+### [商道](shangdao.md)
+
+### [读<<国芯往事>>](biji1.md)
+
+### [心流](flow.md)
