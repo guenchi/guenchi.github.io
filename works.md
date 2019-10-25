@@ -143,7 +143,7 @@ Scheme的异步http服务器。
 一个以Chez Scheme为编译后端的JavaScript的编译器，可以将JavaScript编译为机器码。
 ```
 
-### [json库](https://github.com/guenchi/json)
+### [json库](https://guenchi.github.io/json/)
 
 ```
 一个Scheme的Json库，包括Json parser和一些Json操作函数。
