@@ -10,6 +10,8 @@ LISP黑客，Scheme传道者
 
 ### [我的作品](works.md)
 
+### [Scheme及其编译器实现论文集](https://guenchi.github.io/Scheme/)
+
 ### [潜意识计算](qianyisi.md)
 
 ### [读<<腾讯没有梦想>>](biji2.md)
