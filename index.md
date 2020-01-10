@@ -12,6 +12,10 @@ LISP黑客，Scheme传道者
 
 ### [Scheme及其编译器实现论文集](https://guenchi.github.io/Scheme/)
 
+### [解密Chez Scheme（一）](0x7c06.md)
+
+### [理解call/cc](0x7c05.md)
+
 ### [潜意识计算](0x7c04.md)
 
 ### [读<<腾讯没有梦想>>](0x7c03.md)
