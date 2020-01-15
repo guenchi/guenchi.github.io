@@ -8,7 +8,7 @@ LISP黑客，Scheme传道者
 企业家，持续创业者
 ```
 
-***[guenchi的作品](0x0000.md)***   /   ***[Scheme及其编译器实现论文集](https://guenchi.github.io/Scheme/)***   /   ***[theschemer.org](http://theschemer.org)***   /   ***[Raven](http://ravensc.com)***
+[guenchi的作品](0x0000.md) / [Scheme及其编译器实现论文集](https://guenchi.github.io/Scheme/) / [theschemer.org](http://theschemer.org) / [Raven](http://ravensc.com)
 
 ## 日志
 
