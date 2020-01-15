@@ -8,7 +8,9 @@ LISP黑客，Scheme传道者
 企业家，持续创业者
 ```
 
-***[我的作品](0x0000.md)*** ***[Scheme及其编译器实现论文集](https://guenchi.github.io/Scheme/)***
+***[我的作品](0x0000.md)***
+
+***[Scheme及其编译器实现论文集](https://guenchi.github.io/Scheme/)***
 
 ### [解密Chez Scheme（一）](0x7c06.md)
 
