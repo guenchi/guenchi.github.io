@@ -28,5 +28,5 @@ LISP黑客，Scheme传道者
 
 
 ```
-all rights reserved © copyright
+all rights reserved © Copyright
 ```
