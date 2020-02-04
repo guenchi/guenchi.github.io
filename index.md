@@ -25,3 +25,8 @@ LISP黑客，Scheme传道者
 ### [读<<国芯往事>>](0x7c01.md)
 
 ### [心流](0x7c00.md)
+
+
+```
+all rights reserved © copyright
+```
