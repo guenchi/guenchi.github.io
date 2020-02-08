@@ -28,5 +28,5 @@ LISP黑客，Scheme传道者
 
 
 ```
-all rights reserved © Copyright
+© 2019-2020 guenchi.  All rights reserved.
 ```
