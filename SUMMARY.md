@@ -1,6 +1,6 @@
 # Summary
 
-* [Index](README.md)
+* [guenchi.com](README.md)
 
 * [个人作品](0x0000.md)
 
@@ -21,3 +21,5 @@
 * [读<<国芯往事>>](0x7c01.md)
 
 * [心流](0x7c00.md)
+
+* [Github镜像](https://guenchi.github.io)
