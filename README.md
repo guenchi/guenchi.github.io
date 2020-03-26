@@ -7,6 +7,7 @@
 LISP黑客，Scheme传道者
 企业家，持续创业者
 ```
+[Github镜像](https://guenchi.github.io)
 
 ### [个人作品](0x0000.md)
 
