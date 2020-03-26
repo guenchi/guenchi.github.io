@@ -21,5 +21,3 @@
 * [读<<国芯往事>>](0x7c01.md)
 
 * [心流](0x7c00.md)
-
-* [Github镜像](https://guenchi.github.io)
