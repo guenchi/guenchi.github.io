@@ -4,7 +4,9 @@
 
 * [个人作品](0x0000.md)
 
-* [Scheme及其编译器实现论文集](https://guenchi.github.io/Scheme/) 
+* [<<馨月集>>](0x0101.md)
+
+* [近年其他诗词](0x0102.md)
 
 * [解密Chez Scheme（一）](0x7c06.md)
 
