@@ -2,6 +2,8 @@
 
 * [Index](README.md)
 
+* [个人作品](0x0000.md)
+
 * [Scheme及其编译器实现论文集](https://guenchi.github.io/Scheme/) 
 
 * [解密Chez Scheme（一）](0x7c06.md)
@@ -17,5 +19,3 @@
 * [读<<国芯往事>>](0x7c01.md)
 
 * [心流](0x7c00.md)
-
-* [解密Chez Scheme（一）](0x7c06.md)
