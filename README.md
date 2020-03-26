@@ -1,6 +1,5 @@
 # guenchi
 
-about me
 ```
 旅法华人
 语言学家，语音学家
