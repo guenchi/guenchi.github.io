@@ -8,9 +8,11 @@ LISP黑客，Scheme传道者
 企业家，持续创业者
 ```
 
-[个人作品](0x0000.md)
+[Gitlab镜像](https://guenchi.gitlab.io)
 
-[Scheme及其编译器实现论文集](https://guenchi.github.io/Scheme/) 
+### [个人作品](0x0000.md)
+
+### [Scheme及其编译器实现论文集](https://guenchi.github.io/Scheme/) 
 
 ## 日志
 
@@ -28,8 +30,6 @@ LISP黑客，Scheme传道者
 
 ### [心流](0x7c00.md)
 
-
-[Gitlab镜像](https://guenchi.gitlab.io)
 
 ```
 © 2019-2020 guenchi.  All rights reserved.
