@@ -8,6 +8,7 @@
 作家，诗人
 LISP黑客，Scheme传道者
 企业家，持续创业者
+美食家，寿司大师
 ```
 
 [Gitlab镜像](https://guenchi.gitlab.io)
