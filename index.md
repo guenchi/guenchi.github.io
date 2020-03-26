@@ -29,6 +29,8 @@ LISP黑客，Scheme传道者
 ### [心流](0x7c00.md)
 
 
+[Gitlab镜像](https://guenchi.gitlab.io)
+
 ```
 © 2019-2020 guenchi.  All rights reserved.
 ```
