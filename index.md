@@ -11,11 +11,15 @@ LISP黑客，Scheme传道者
 美食家，寿司大师
 ```
 
-[Gitlab镜像](https://guenchi.gitlab.io)
+[GitLab镜像](https://guenchi.gitlab.io)
 
 ### [个人作品](0x0000.md)
 
-### [Scheme及其编译器实现论文集](https://guenchi.github.io/Scheme/) 
+### [Scheme及其编译器实现论文集](/Scheme) 
+
+### [Scheme程序设计语言 (中译版) ](/TSPL)
+
+### [Chez Scheme使用手册 (中译版) ](/CSUG)
 
 ## 日志
 
