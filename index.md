@@ -17,9 +17,9 @@ LISP黑客，Scheme传道者
 
 ### [Scheme Related Papers](/Scheme) 
 
-### [Scheme程序设计语言 (中译版) ](/TSPL)
+### [Scheme程序设计语言](/TSPL)
 
-### [Chez Scheme使用手册 (中译版) ](/CSUG)
+### [Chez Scheme使用手册](/CSUG)
 
 ## 日志
 
