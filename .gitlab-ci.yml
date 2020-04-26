@@ -17,7 +17,7 @@ test:
   only:
     - branches
   except:
-    - master
+    - pages
     
 pages:
   stage: deploy
@@ -28,4 +28,4 @@ pages:
       - public
     expire_in: 1 week
   only:
-    - master 
+    - pages
