@@ -10,7 +10,8 @@ jobs:
     - name: Checkout action
       uses: actions/checkout@v2
     - name: Gitbook Action
-      uses: zanderzhao/gitbook-action@v1.2.2
+      uses: guenchi/gitbook-action@v1.2.2
       with:
         token: ${{ secrets.gitbook_action_token }}
+        source_branch: pages 
         publish_branch: master
