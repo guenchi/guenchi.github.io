@@ -23,6 +23,8 @@ LISP黑客，Scheme传道者
 
 ## 日志
 
+### [再谈心流](0x7c07.md)
+
 ### [解密Chez Scheme（一）](0x7c06.md)
 
 ### [理解call/cc](0x7c05.md)
